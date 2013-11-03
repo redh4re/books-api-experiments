@@ -1,5 +1,9 @@
 *.py[cod]
 
+# DAT extensions
+# Commonly used for OAuth2 credential storage
+*.dat
+
 # C extensions
 *.so
 
